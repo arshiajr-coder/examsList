@@ -6,7 +6,7 @@ const examsList = [
     isNew: true,
   },
   {
-    name: "",
+    name: "حسابان",
     date: "۱۴۰۲/۳/۱۸",
     seasons: "فصل ۱و۲و۳",
     isNew: true,
