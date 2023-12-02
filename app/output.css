@@ -544,32 +544,8 @@ body{
   --tw-backdrop-sepia:  ;
 }
 
-.absolute {
-  position: absolute;
-}
-
-.relative {
-  position: relative;
-}
-
-.left-0 {
-  left: 0px;
-}
-
-.top-0 {
-  top: 0px;
-}
-
 .mb-10 {
   margin-bottom: 2.5rem;
-}
-
-.ml-4 {
-  margin-left: 1rem;
-}
-
-.mt-3 {
-  margin-top: 0.75rem;
 }
 
 .mt-5 {
@@ -580,12 +556,8 @@ body{
   display: flex;
 }
 
-.h-6 {
-  height: 1.5rem;
-}
-
-.w-6 {
-  width: 1.5rem;
+.hidden {
+  display: none;
 }
 
 .w-64 {
@@ -669,26 +641,13 @@ body{
   padding-bottom: 0.5rem;
 }
 
-.py-4 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 .pb-5 {
   padding-bottom: 1.25rem;
-}
-
-.text-center {
-  text-align: center;
 }
 
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-\[8px\] {
-  font-size: 8px;
 }
 
 .text-sm {
@@ -714,32 +673,8 @@ body{
 }
 
 @media (min-width: 1024px) {
-  .lg\:top-auto {
-    top: auto;
-  }
-
   .lg\:mr-0 {
     margin-right: 0px;
-  }
-
-  .lg\:mt-0 {
-    margin-top: 0px;
-  }
-
-  .lg\:flex {
-    display: flex;
-  }
-
-  .lg\:w-\[140px\] {
-    width: 140px;
-  }
-
-  .lg\:w-\[180px\] {
-    width: 180px;
-  }
-
-  .lg\:w-\[500px\] {
-    width: 500px;
   }
 
   .lg\:w-\[550px\] {
@@ -754,15 +689,7 @@ body{
     flex-direction: row;
   }
 
-  .lg\:items-center {
-    align-items: center;
-  }
-
   .lg\:justify-evenly {
     justify-content: space-evenly;
   }
-}
-
-.hiddem:{
-  display:none;
 }
