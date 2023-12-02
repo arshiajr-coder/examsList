@@ -762,3 +762,7 @@ body{
     justify-content: space-evenly;
   }
 }
+
+.hiddem:{
+  display:none;
+}
