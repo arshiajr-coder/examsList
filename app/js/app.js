@@ -1,21 +1,39 @@
 const examsList = [
   {
-    name: "فارسی",
-    date: "۱۴۰۲/۳/۲۱",
-    seasons: "درس ۶و۷",
+    name: "هندسه",
+    date: "۱۴۰۲/۹/۱۳",
+    seasons: "تا صفحه ۴۶",
     isNew: true,
   },
   {
     name: "حسابان",
-    date: "۱۴۰۲/۳/۱۸",
+    date: "۱۴۰۲/۹/۱۸",
     seasons: "فصل ۱و۲و۳",
-    isNew: true,
+    isNew: false,
   },
   {
     name: "زبان",
-    date: "۱۴۰۲/۳/۱۸",
+    date: "۱۴۰۲/۹/۱۸",
     seasons: "Listening",
+    isNew: false,
+  },
+  {
+    name: "شیمی",
+    date: "۱۴۰۲/۹/۱۹",
+    seasons: "فصل۱و۲",
     isNew: true,
+  },
+  {
+    name: "هویت اجتماعی",
+    date: "۱۴۰۲/۹/۱۹",
+    seasons: "درس ۱تا۵",
+    isNew: true,
+  },
+  {
+    name: "فارسی",
+    date: "۱۴۰۲/۹/۲۱",
+    seasons: "درس ۶و۷",
+    isNew: false,
   },
 ];
 
