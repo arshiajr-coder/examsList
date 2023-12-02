@@ -3,7 +3,7 @@ const examsList = [
     name: "هندسه",
     date: "۱۴۰۲/۹/۱۳",
     seasons: "تا صفحه ۴۶",
-    isNew: true,
+    isNew: false,
   },
   {
     name: "حسابان",
@@ -21,13 +21,13 @@ const examsList = [
     name: "شیمی",
     date: "۱۴۰۲/۹/۱۹",
     seasons: "فصل۱و۲",
-    isNew: true,
+    isNew: false,
   },
   {
     name: "هویت اجتماعی",
     date: "۱۴۰۲/۹/۱۹",
     seasons: "درس ۱تا۵",
-    isNew: true,
+    isNew: false,
   },
   {
     name: "فارسی",
