@@ -1,20 +1,20 @@
 const examsList = [
   {
-    name: "سلامت و بهداشت",
-    date: "۱۴۰۲/۳/۱۱",
+    name: "فارسی",
+    date: "۱۴۰۲/۳/۲۱",
     seasons: "درس ۶و۷",
     isNew: true,
   },
   {
-    name: "سلام سید",
-    date: "۱۴۰۲/۳/۱5",
-    seasons: "درس ۶و۷",
+    name: "",
+    date: "۱۴۰۲/۳/۱۸",
+    seasons: "فصل ۱و۲و۳",
     isNew: true,
   },
   {
-    name: "سلامت و بهداشت",
-    date: "۱۴۰۲/۳/۱۱",
-    seasons: "درس ۶و۷",
+    name: "زبان",
+    date: "۱۴۰۲/۳/۱۸",
+    seasons: "Listening",
     isNew: true,
   },
 ];
