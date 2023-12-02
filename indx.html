@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="app/output.css" />
+    <link type="text/css" rel="stylesheet" href="date-pack/jalalidatepicker.min.css" />
+    <title>Document</title>
+  </head>
+  <body class="p-5">
+    <div class="rounded"> 
+        <div class="app-title flex flex-col justify-center items-center mb-10">
+            <h1 class="text-2xl">برنامه امتحانی</h1>
+            <h4 class="text-sm">دوازدهم ریاضی &#128526;</h4>
+        </div>
+        <div class="app-sections rounded-xl bg-slate-300 flex flex-col lg:flex-row lg:justify-evenly items-center">
+            <section class="w-fit md:h-80 mb-10">
+                <div class="date-wrapper flex justify-center py-2">
+                    <input type="button" class="bg-red-400 text-white rounded w-64 mr-[-40px] lg:mr-0" data-jdp value="تقویم همین الون بیا">
+                </div>
+            </section>
+            <section class="">
+                <div class="list-wrapper p-3 shadow-md bg-white w-[450px] lg:w-[550px] rounded-md flex justify-center">
+                    <ul class="ul-list divide-y-2">
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <div class="flex justify-center mt-5">
+            <div>تقدیم به رفیقای گنگ خودم &#128540</div>
+        </div>
+    </div>
+        
+
+    <script type="text/javascript" src="date-pack/jalalidatepicker.min.js"></script>
+    <script src="app/js/date-controller.js"></script>
+    <script src="app/js/app.js"></script>
+  </body>
+</html>
