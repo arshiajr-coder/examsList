@@ -1,10 +1,5 @@
 const examsList = [
-  {
-    name: "هندسه",
-    date: "۱۴۰۲/۹/۱۳",
-    seasons: "تا صفحه ۴۶",
-    isNew: false,
-  },
+  
   {
     name: "حسابان",
     date: "۱۴۰۲/۹/۱۸",
