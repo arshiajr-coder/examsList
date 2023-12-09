@@ -1,17 +1,4 @@
 const examsList = [
-  
-  {
-    name: "حسابان",
-    date: "۱۴۰۲/۹/۱۸",
-    seasons: "فصل ۱و۲و۳",
-    isNew: false,
-  },
-  {
-    name: "زبان",
-    date: "۱۴۰۲/۹/۱۸",
-    seasons: "Listening",
-    isNew: false,
-  },
   {
     name: "شیمی",
     date: "۱۴۰۲/۹/۱۹",
