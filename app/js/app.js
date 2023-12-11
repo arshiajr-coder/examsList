@@ -1,22 +1,16 @@
 const examsList = [
   {
-    name: "شیمی",
-    date: "۱۴۰۲/۹/۱۹",
-    seasons: "فصل۱و۲",
-    isNew: false,
-  },
-  {
-    name: "هویت اجتماعی",
-    date: "۱۴۰۲/۹/۱۹",
-    seasons: "درس ۱تا۵",
-    isNew: false,
-  },
-  {
     name: "فارسی",
     date: "۱۴۰۲/۹/۲۱",
     seasons: "درس ۶و۷",
     isNew: false,
   },
+  {
+    name: "سلامت و بهداشت",
+    date: "۱۴۰۲/۹/۲۷",
+    seasons: "درس ۶و۷و۸و۹",
+    isNew: true,
+  }
 ];
 
 const ul = document.querySelector(".ul-list");
