@@ -1,15 +1,9 @@
 const examsList = [
   {
-    name: "فارسی",
-    date: "۱۴۰۲/۹/۲۱",
-    seasons: "درس ۶و۷",
-    isNew: false,
-  },
-  {
     name: "سلامت و بهداشت",
     date: "۱۴۰۲/۹/۲۷",
     seasons: "درس ۶و۷و۸و۹",
-    isNew: true,
+    isNew: false,
   }
 ];
 
